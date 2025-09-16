@@ -10,7 +10,7 @@
   <a href="LICENSE">
     <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="MIT License">
   </a>
-  <a href="https://discord.gg/yourserver">
+  <a href="https://discord.gg/FArW43bvC2">
     <img src="https://img.shields.io/discord/000000000000000000?logo=discord&logoColor=white&label=Discord&color=5865F2" alt="Discord">
   </a>
 </div>
